@@ -1,6 +1,14 @@
 # Introdução ao Machine Learning com R
 
-### Trabalho de Conclusão de Curso da Turma de Maio/22 do *Curso R*
+
+<p align="center">
+<img src="https://github.com/claudiaanjos/tcc-machine-learning-cursor/blob/main/Certificado.png" width=50% />
+</p>
+
+<h2 align="center">
+Trabalho de Conclusão de Curso da Turma de Maio/22 do <b>Curso R</b>
+</h2>
+
 
 O trabalho consiste em prever quem irá fazer compras na Loja Virtual Google no próximo mês.
 O banco de dados original é da competição [Kaggle Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction).
