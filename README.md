@@ -49,5 +49,11 @@ customDimensions - This section contains any user-level or session-level custom 
 
 totals - This set of columns mostly includes high-level aggregate data.
 
+#
 
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>
+    <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/-Medium-FF5722?style=for-the-badge&logo=medium" target="_blank"></a>
+</div>
 
